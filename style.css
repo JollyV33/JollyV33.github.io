@@ -206,7 +206,17 @@ body {
   }
 }
 #activities {
-    background-color: #f4f4f4;
-    padding: 20px;
-    border-radius: 8px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    margin: 20px auto;
+    max-width: 500px;
+    padding: 25px;
+    text-align: center; 
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+}
+
+#activities ul {
+    list-style: none;
+    padding: 0;
 }
